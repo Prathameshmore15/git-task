@@ -1,11 +1,19 @@
 # Task 1 – Git Branching and Merge Conflict Resolution
 
-## Summary
+## 🔧 Project Summary
 
-This task demonstrates Git version control features, including branching, making conflicting changes, and resolving a merge conflict.
+This task demonstrates how to use Git for version control by:
+- Initializing a Git repository
+- Creating and switching between branches
+- Making conflicting changes
+- Resolving a merge conflict
+- Pushing the project to GitHub
 
-## Steps Performed
+---
 
-1. Initialized a Git repository:
-   ```bash
-   git init
+## 📝 Steps Followed
+
+### ✅ Step 1: Initialize Git Repository
+
+```bash
+git init
